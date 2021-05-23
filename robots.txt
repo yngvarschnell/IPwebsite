@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://yngvarschnell.github.io/IPwebsite/sitemap.xml

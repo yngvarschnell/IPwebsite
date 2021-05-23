@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>IP horizons</title>
+    <link href="https://yngvarschnell.github.io/IPwebsite/feed.xml" rel="self" />
+    <link href="https://yngvarschnell.github.io/IPwebsite" />
+    <updated>2021-05-23T15:16:56+02:00</updated>
+    <author>
+        <name>Yngvar Schnell</name>
+    </author>
+    <id>https://yngvarschnell.github.io/IPwebsite</id>
+
+    <entry>
+        <title>Horology IP law </title>
+        <author>
+            <name>Yngvar Schnell</name>
+        </author>
+        <link href="https://yngvarschnell.github.io/IPwebsite/horology-ip-law.html"/>
+        <id>https://yngvarschnell.github.io/IPwebsite/horology-ip-law.html</id>
+
+        <updated>2021-05-23T15:16:56+02:00</updated>
+            <summary>
+                <![CDATA[
+                    hfhhfdjd 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>hfhhfdjd </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

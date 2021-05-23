@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "IP horizons",
+    "description": "",
+    "home_page_url": "https://yngvarschnell.github.io/IPwebsite",
+    "feed_url": "https://yngvarschnell.github.io/IPwebsite/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yngvar Schnell"
+    },
+    "items": [
+        {
+            "id": "https://yngvarschnell.github.io/IPwebsite/horology-ip-law.html",
+            "url": "https://yngvarschnell.github.io/IPwebsite/horology-ip-law.html",
+            "title": "Horology IP law ",
+            "summary": "hfhhfdjd ",
+            "content_html": "<p>hfhhfdjd </p>",
+            "author": {
+                "name": "Yngvar Schnell"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-23T15:16:56+02:00",
+            "date_modified": "2021-05-23T15:16:56+02:00"
+        }
+    ]
+}
